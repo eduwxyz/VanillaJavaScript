@@ -6,6 +6,12 @@ Este repositório foi criado para mostrar minhas práticas com o JavaScript. Ire
 # Como vai funcionar
 Os projetos serão divididos em dias, e todos os dias irei postar um novo projeto. 
 
+# Desafios
+
+* [Desafio 1 - Validação de Email](https://github.com/DevShy/VanillaJavaScript/tree/main/01); 
+* [Desafio 2 - Efeito de bala em background](https://github.com/DevShy/VanillaJavaScript/tree/main/02); 
+
+
 ## Copyright
 
 © Eduardo Machado, 2º Semestre de Sistema de Informação.
